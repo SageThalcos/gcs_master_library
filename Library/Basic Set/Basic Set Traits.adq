@@ -2196,6 +2196,91 @@
 			}
 		},
 		{
+			"id": "tNs3r-xh05OnHz3pI",
+			"name": "Average Wealth",
+			"reference": "B25, L8, DFA54, DW33",
+			"reference_highlight": "Average",
+			"local_notes": "Starting wealth is normal",
+			"tags": [
+				"Advantage",
+				"Social",
+				"Wealth"
+			],
+			"prereqs": {
+				"type": "prereq_list",
+				"all": true,
+				"prereqs": [
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Comfortable Wealth"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Dead Broke"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Poor"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Struggling"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Wealthy"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Very Wealthy"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Filthy Rich"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Multimillionaire"
+						}
+					}
+				]
+			},
+			"calc": {
+				"points": 0
+			}
+		},
+		{
 			"id": "tOIbA7bxjknhRjYSU",
 			"name": "Bad Back",
 			"reference": "B123",
@@ -3886,7 +3971,8 @@
 		{
 			"id": "tdEOEbc8ltxyQNFJj",
 			"name": "Comfortable Wealth",
-			"reference": "B25",
+			"reference": "B25, L8, DFA54, DW33",
+			"reference_highlight": "Comfortable",
 			"local_notes": "Starting wealth is twice normal",
 			"tags": [
 				"Advantage",
@@ -3902,7 +3988,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "dead broke"
+							"qualifier": "Average Wealth"
 						}
 					},
 					{
@@ -3910,7 +3996,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "poor"
+							"qualifier": "Dead Broke"
 						}
 					},
 					{
@@ -3918,7 +4004,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "struggling"
+							"qualifier": "Poor"
 						}
 					},
 					{
@@ -3926,7 +4012,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "wealthy"
+							"qualifier": "Struggling"
 						}
 					},
 					{
@@ -3934,7 +4020,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "very wealthy"
+							"qualifier": "Wealthy"
 						}
 					},
 					{
@@ -3942,7 +4028,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "filthy rich"
+							"qualifier": "Very Wealthy"
 						}
 					},
 					{
@@ -3950,7 +4036,15 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "multimillionaire"
+							"qualifier": "Filthy Rich"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Multimillionaire"
 						}
 					}
 				]
@@ -5343,7 +5437,7 @@
 		{
 			"id": "tw71iZfV_lekRjlBO",
 			"name": "Dead Broke",
-			"reference": "B25",
+			"reference": "B25, L8, DFA67, DW33",
 			"local_notes": "Starting wealth is 0",
 			"tags": [
 				"Disadvantage",
@@ -5359,7 +5453,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "poor"
+							"qualifier": "Average Wealth"
 						}
 					},
 					{
@@ -5367,7 +5461,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "struggling"
+							"qualifier": "Poor"
 						}
 					},
 					{
@@ -5375,7 +5469,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "comfortable wealth"
+							"qualifier": "Struggling"
 						}
 					},
 					{
@@ -5383,7 +5477,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "wealthy"
+							"qualifier": "Comfortable Wealth"
 						}
 					},
 					{
@@ -5391,7 +5485,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "very wealthy"
+							"qualifier": "Wealthy"
 						}
 					},
 					{
@@ -5399,7 +5493,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "filthy rich"
+							"qualifier": "Very Wealthy"
 						}
 					},
 					{
@@ -5407,7 +5501,15 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "multimillionaire"
+							"qualifier": "Filthy Rich"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Multimillionaire"
 						}
 					}
 				]
@@ -8676,7 +8778,7 @@
 		{
 			"id": "tqzd8zGIvcYp0FgjE",
 			"name": "Filthy Rich",
-			"reference": "B25",
+			"reference": "B25, L8, DFRC2:49, DW33",
 			"local_notes": "Starting wealth is 100x normal",
 			"tags": [
 				"Advantage",
@@ -8692,7 +8794,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "dead broke"
+							"qualifier": "Average Wealth"
 						}
 					},
 					{
@@ -8700,7 +8802,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "poor"
+							"qualifier": "Dead Broke"
 						}
 					},
 					{
@@ -8708,7 +8810,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "struggling"
+							"qualifier": "Poor"
 						}
 					},
 					{
@@ -8716,7 +8818,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "comfortable wealth"
+							"qualifier": "Struggling"
 						}
 					},
 					{
@@ -8724,7 +8826,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "wealthy"
+							"qualifier": "Comfortable Wealth"
 						}
 					},
 					{
@@ -8732,7 +8834,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "very wealthy"
+							"qualifier": "Wealthy"
 						}
 					},
 					{
@@ -8740,11 +8842,38 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "multimillionaire"
+							"qualifier": "Very Wealthy"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Multimillionaire"
 						}
 					}
 				]
 			},
+			"modifiers": [
+				{
+					"id": "mxxXX0DiOkPBXV89H",
+					"name": "Wealth grants Status",
+					"reference": "B26",
+					"reference_highlight": "Wealth and Status",
+					"features": [
+						{
+							"type": "trait_bonus",
+							"name": {
+								"compare": "is",
+								"qualifier": "Status"
+							},
+							"amount": 1
+						}
+					],
+					"disabled": true
+				}
+			],
 			"base_points": 50,
 			"calc": {
 				"points": 50
@@ -10319,8 +10448,8 @@
 		},
 		{
 			"id": "tA7Kmr7kSEEXGBSQO",
-			"name": "High Status",
-			"reference": "B28",
+			"name": "Status",
+			"reference": "B28, L8, DW37",
 			"local_notes": "@Description@",
 			"tags": [
 				"Advantage",
@@ -10328,10 +10457,9 @@
 			],
 			"points_per_level": 5,
 			"can_level": true,
-			"levels": 1,
 			"calc": {
-				"points": 5,
-				"current_level": 1
+				"points": 0,
+				"current_level": 0
 			}
 		},
 		{
@@ -15969,7 +16097,7 @@
 		{
 			"id": "tn-kBo-qGnIc4wYlI",
 			"name": "Low Status ",
-			"reference": "B28",
+			"reference": "B28, L8, DW37",
 			"local_notes": "@Description@",
 			"tags": [
 				"Disadvantage",
@@ -18025,8 +18153,8 @@
 		{
 			"id": "tc2Bw-0JpkS5K2zxY",
 			"name": "Multimillionaire",
-			"reference": "B25",
-			"local_notes": "Starting wealth is \u003cscript\u003eformatNum(100 * Math.pow(10, self.level), true, false)\u003c/script\u003ex normal",
+			"reference": "B25, DFRC2:49, DW33",
+			"local_notes": "Starting wealth is \u003cscript\u003e\n// Partial Multimillionaire Levels (SS2:26) allows Multimillionaire level to be any multiple of 0.2.\nlet whole = Math.trunc(self.level), partial = Math.round((self.level - whole)* 10) || 1;\nformatNum(10 ** ( whole + 2) * partial, true, false)\n\u003c/script\u003ex normal",
 			"tags": [
 				"Advantage",
 				"Social",
@@ -18037,11 +18165,15 @@
 				"all": true,
 				"prereqs": [
 					{
+						"type": "script_prereq",
+						"script": "const statusModifier = self.findActiveModifier(\"Wealth grants Status\");\nif (statusModifier \u0026\u0026 statusModifier.level == 2 \u0026\u0026 (self.level \u003c 1 || self.level \u003e= 2)) {\n  \"Multimillionaire level must be at least 1 and less than 2 for Wealth grants Status 2\"\n} else if (statusModifier \u0026\u0026 statusModifier.level == 3 \u0026\u0026 self.level \u003c 2) {\n  \"Multimillionaire level must be at least 2 for Wealth grants Status 3\"\n} else { \n  \"\"\n}"
+					},
+					{
 						"type": "trait_prereq",
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "dead broke"
+							"qualifier": "Average Wealth"
 						}
 					},
 					{
@@ -18049,7 +18181,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "poor"
+							"qualifier": "Dead Broke"
 						}
 					},
 					{
@@ -18057,7 +18189,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "struggling"
+							"qualifier": "Poor"
 						}
 					},
 					{
@@ -18065,7 +18197,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "comfortable wealth"
+							"qualifier": "Struggling"
 						}
 					},
 					{
@@ -18073,7 +18205,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "wealthy"
+							"qualifier": "Comfortable Wealth"
 						}
 					},
 					{
@@ -18081,7 +18213,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "very wealthy"
+							"qualifier": "Wealthy"
 						}
 					},
 					{
@@ -18089,11 +18221,69 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "filthy rich"
+							"qualifier": "Very Wealthy"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Filthy Rich"
 						}
 					}
 				]
 			},
+			"modifiers": [
+				{
+					"id": "MDbXjHSLTEvlrARdu",
+					"name": "Multimillionaire 1 only",
+					"children": [
+						{
+							"id": "mdJkLsMNq2c-yG7ls",
+							"name": "Wealth grants Status",
+							"reference": "B26",
+							"reference_highlight": "Wealth and Status",
+							"features": [
+								{
+									"type": "trait_bonus",
+									"name": {
+										"compare": "is",
+										"qualifier": "Status"
+									},
+									"amount": 2
+								}
+							],
+							"levels": 2,
+							"disabled": true
+						}
+					]
+				},
+				{
+					"id": "MSOGTpGSxmAFTvtm2",
+					"name": "Multimillionaire 2+",
+					"children": [
+						{
+							"id": "mnL5Zw8FlrpWv1wdY",
+							"name": "Wealth grants Status",
+							"reference": "B26",
+							"reference_highlight": "Wealth and Status",
+							"features": [
+								{
+									"type": "trait_bonus",
+									"name": {
+										"compare": "is",
+										"qualifier": "Status"
+									},
+									"amount": 3
+								}
+							],
+							"levels": 3,
+							"disabled": true
+						}
+					]
+				}
+			],
 			"base_points": 50,
 			"points_per_level": 25,
 			"can_level": true,
@@ -20530,7 +20720,7 @@
 		{
 			"id": "t-X2ObErkLG1c_UzW",
 			"name": "Poor",
-			"reference": "B25",
+			"reference": "B25, L8, DFA67, DW33",
 			"local_notes": "Starting wealth is 1/5 normal",
 			"tags": [
 				"Disadvantage",
@@ -20546,7 +20736,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "dead broke"
+							"qualifier": "Average Wealth"
 						}
 					},
 					{
@@ -20554,7 +20744,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "struggling"
+							"qualifier": "Dead Broke"
 						}
 					},
 					{
@@ -20562,7 +20752,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "comfortable wealth"
+							"qualifier": "Struggling"
 						}
 					},
 					{
@@ -20570,7 +20760,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "wealthy"
+							"qualifier": "Comfortable Wealth"
 						}
 					},
 					{
@@ -20578,7 +20768,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "very wealthy"
+							"qualifier": "Wealthy"
 						}
 					},
 					{
@@ -20586,7 +20776,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "filthy rich"
+							"qualifier": "Very Wealthy"
 						}
 					},
 					{
@@ -20594,7 +20784,15 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "multimillionaire"
+							"qualifier": "Filthy Rich"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Multimillionaire"
 						}
 					}
 				]
@@ -24873,7 +25071,7 @@
 		{
 			"id": "trgleL6LZZ7FUDMEB",
 			"name": "Struggling",
-			"reference": "B25",
+			"reference": "B25, L8, DFA67, DW33",
 			"local_notes": "Starting wealth is ½ normal",
 			"tags": [
 				"Disadvantage",
@@ -24889,7 +25087,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "dead broke"
+							"qualifier": "Average Wealth"
 						}
 					},
 					{
@@ -24897,7 +25095,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "poor"
+							"qualifier": "Dead Broke"
 						}
 					},
 					{
@@ -24905,7 +25103,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "comfortable wealth"
+							"qualifier": "Poor"
 						}
 					},
 					{
@@ -24913,7 +25111,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "wealthy"
+							"qualifier": "Comfortable Wealth"
 						}
 					},
 					{
@@ -24921,7 +25119,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "very wealthy"
+							"qualifier": "Wealthy"
 						}
 					},
 					{
@@ -24929,7 +25127,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "filthy rich"
+							"qualifier": "Very Wealthy"
 						}
 					},
 					{
@@ -24937,7 +25135,15 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "multimillionaire"
+							"qualifier": "Filthy Rich"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Multimillionaire"
 						}
 					}
 				]
@@ -28868,7 +29074,7 @@
 		{
 			"id": "tgNjs3lrycmChMxRC",
 			"name": "Very Wealthy",
-			"reference": "B25",
+			"reference": "B25, L8, DFA54, DW33",
 			"local_notes": "Starting wealth is 20x normal",
 			"tags": [
 				"Advantage",
@@ -28884,7 +29090,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "dead broke"
+							"qualifier": "Average Wealth"
 						}
 					},
 					{
@@ -28892,7 +29098,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "poor"
+							"qualifier": "Dead Broke"
 						}
 					},
 					{
@@ -28900,7 +29106,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "struggling"
+							"qualifier": "Poor"
 						}
 					},
 					{
@@ -28908,7 +29114,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "comfortable wealth"
+							"qualifier": "Struggling"
 						}
 					},
 					{
@@ -28916,7 +29122,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "wealthy"
+							"qualifier": "Comfortable Wealth"
 						}
 					},
 					{
@@ -28924,7 +29130,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "filthy rich"
+							"qualifier": "Wealthy"
 						}
 					},
 					{
@@ -28932,11 +29138,38 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "multimillionaire"
+							"qualifier": "Filthy Rich"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Multimillionaire"
 						}
 					}
 				]
 			},
+			"modifiers": [
+				{
+					"id": "m3GIvK8sm3D6wM63W",
+					"name": "Wealth grants Status",
+					"reference": "B26",
+					"reference_highlight": "Wealth and Status",
+					"features": [
+						{
+							"type": "trait_bonus",
+							"name": {
+								"compare": "is",
+								"qualifier": "Status"
+							},
+							"amount": 1
+						}
+					],
+					"disabled": true
+				}
+			],
 			"base_points": 30,
 			"calc": {
 				"points": 30
@@ -29760,7 +29993,7 @@
 		{
 			"id": "t55UZnC4Hxsvl7-ri",
 			"name": "Wealthy",
-			"reference": "B25",
+			"reference": "B25, L8, DFA54, DW33",
 			"local_notes": "Starting wealth is 5x normal",
 			"tags": [
 				"Advantage",
@@ -29776,7 +30009,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "dead broke"
+							"qualifier": "Average Wealth"
 						}
 					},
 					{
@@ -29784,7 +30017,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "poor"
+							"qualifier": "Dead Broke"
 						}
 					},
 					{
@@ -29792,7 +30025,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "struggling"
+							"qualifier": "Poor"
 						}
 					},
 					{
@@ -29800,7 +30033,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "comfortable wealth"
+							"qualifier": "Struggling"
 						}
 					},
 					{
@@ -29808,7 +30041,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "very wealthy"
+							"qualifier": "Comfortable Wealth"
 						}
 					},
 					{
@@ -29816,7 +30049,7 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "filthy rich"
+							"qualifier": "Very Wealthy"
 						}
 					},
 					{
@@ -29824,11 +30057,38 @@
 						"has": false,
 						"name": {
 							"compare": "is",
-							"qualifier": "multimillionaire"
+							"qualifier": "Filthy Rich"
+						}
+					},
+					{
+						"type": "trait_prereq",
+						"has": false,
+						"name": {
+							"compare": "is",
+							"qualifier": "Multimillionaire"
 						}
 					}
 				]
 			},
+			"modifiers": [
+				{
+					"id": "m83yyP9vajaeUHLAH",
+					"name": "Wealth grants Status",
+					"reference": "B26",
+					"reference_highlight": "Wealth and Status",
+					"features": [
+						{
+							"type": "trait_bonus",
+							"name": {
+								"compare": "is",
+								"qualifier": "Status"
+							},
+							"amount": 1
+						}
+					],
+					"disabled": true
+				}
+			],
 			"base_points": 20,
 			"calc": {
 				"points": 20
