@@ -245,6 +245,8 @@ The remainder of this document details the various data types that the data is m
 - `.PageRef` (string)
 - `.ParentID` (string)
 - `.Type` (string)
+- Added in GCS v5.43:
+  - `.Tags` ([]string)
 
 ## Number
 
