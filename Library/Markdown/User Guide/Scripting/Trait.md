@@ -12,6 +12,7 @@ The **For** column indicates whether the property or method is defined for a con
 | CL  | parentID        | string \| undefined | The parent's object ID or undefined if there isn't one.                                                  | GCS v5.36+   |
 | CL  | parent          | object \| undefined | The parent Trait or undefined if there isn't one.                                                        | GCS v5.41+   |
 | CL  | name            | string              | The name.                                                                                                | GCS v5.36+   |
+| CL  | points          | number              | The total adjusted point value, including base points, level, modifiers, and child cost reductions.      | GCS v5.44+   |
 |  L  | level           | number \| undefined | The level of the Trait or undefined if it is not leveled.                                                | GCS v5.41+   |
 |  L  | weapons         | object[]            | Returns a list of [Weapons](Weapon) attached to this Trait.                                              | GCS v5.41+   |
 | CL  | notes           | string              | The notes.                                                                                               | GCS v5.39+   |
