@@ -379,7 +379,7 @@
 			"id": "ebyPPVQULFTzWCHbR",
 			"description": "Kuusinen LH/44",
 			"reference": "HTPG2:32",
-			"local_notes": "Weight includes empty KP/31 (see p. [HT122](HT122))",
+			"local_notes": "Weight includes empty KP/31 (see [High Tech p. 122](HT122))",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -5041,7 +5041,7 @@
 			"id": "eU5--kURSsh_nOlzJ",
 			"description": "Walther Leuchtpistole, 26.5x103mmR",
 			"reference": "HTPG2:29",
-			"local_notes": "Lanyard ring (see p. [HT154](HT154)). Fires flare/signal rounds; no combat damage (Special).",
+			"local_notes": "Lanyard ring (see [High Tech p. 154](HT154)). Fires flare/signal rounds; no combat damage (Special).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -6514,7 +6514,7 @@
 			"id": "eKkFCOY-bszXJ_ctv",
 			"description": "Bergmann MP18/I, 9x19mm",
 			"reference": "HTPG1:27",
-			"local_notes": "Unreliable. Malfunctions on 16+ (see p. B407)",
+			"local_notes": "Unreliable. Malfunctions on 16+ (see p. [B407](B407)).",
 			"tech_level": "6",
 			"legality_class": "2",
 			"tags": [
@@ -7356,7 +7356,7 @@
 			"id": "eXOXib-2LlPWMnXvW",
 			"description": "Steyr-Solothurn S18-100, 20x105mmB",
 			"reference": "HTPG2:13",
-			"local_notes": "Lacks sling swivels (see p. [HT154](HT154)).",
+			"local_notes": "Lacks sling swivels (see [High Tech p. 154](HT154)).",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -7935,7 +7935,7 @@
 			"id": "em1mU7l9hIV_rChi_",
 			"description": "Breda Mod 30, 6.5x52mm",
 			"reference": "HTPG2:25",
-			"local_notes": "Unreliable. Malfunctions on 16+ (see p. [B407](B407))..",
+			"local_notes": "Unreliable. Malfunctions on 16+ (see p. [B407](B407)).",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -12527,7 +12527,7 @@
 			"id": "eb2vst97J4Npau2i9",
 			"description": "Savage Model 45 Super, .30-06",
 			"reference": "HTPG2:13",
-			"local_notes": "Always decorated (see p. [HT10](HT10)).",
+			"local_notes": "Always decorated (see [High Tech p. 10](HT10)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -14639,7 +14639,7 @@
 			"id": "eg1Q0yeFhbe6A9NKs",
 			"description": "Rigby Best Quality Double, .470 NE",
 			"reference": "HTPG2:10",
-			"local_notes": "Always decorated (see p. [HT10](HT10)).",
+			"local_notes": "Always decorated (see [High Tech p. 10](HT10)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -23854,7 +23854,7 @@
 			"id": "eu4EkksxMoAAl33qf",
 			"description": "Greener Light Harpoon Gun, .38 Special",
 			"reference": "HTPG2:12",
-			"local_notes": "Lacks sling swivels (see p. [HT154](HT154)). Fires a harpoon.",
+			"local_notes": "Lacks sling swivels (see [High Tech p. 154](HT154)). Fires a harpoon.",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -24192,7 +24192,7 @@
 			"id": "ehaw5JthP-avEUfYk",
 			"description": "H&H Best Quality Magazine, .375 H&H Magnum",
 			"reference": "HTPG2:10",
-			"local_notes": "Always decorated (see p. [HT10](HT10)).",
+			"local_notes": "Always decorated (see [High Tech p. 10](HT10)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -27722,7 +27722,7 @@
 			"id": "eeUpEtrhcZ1oSg1Ce",
 			"description": "Kokura 97 Shiki Jidouhou, 20x125mm",
 			"reference": "HTPG2:15",
-			"local_notes": "Lacks sling swivels (see p. [HT154](HT154)). Effective LC2 during Pulp era.",
+			"local_notes": "Lacks sling swivels (see [High Tech p. 154](HT154)). Effective LC2 during Pulp era.",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -29677,7 +29677,7 @@
 			"id": "eEScX3i2Q0FH1PHJI",
 			"description": "Cottrell Flashlight Revolver, .22 LR",
 			"reference": "HTPG1:13",
-			"local_notes": "No lanyard ring; includes a tactical like (see p. [HT156](HT156)).",
+			"local_notes": "No lanyard ring; includes a tactical like (see [High Tech p. 156](HT156)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -30929,7 +30929,7 @@
 			"id": "eLnGzW5VsqgOExGO3",
 			"description": "Manville Machine Gas Projector, 1“",
 			"reference": "HTPG2:29",
-			"local_notes": "Sling swivels (see p. [HT154](HT154)).",
+			"local_notes": "Sling swivels (see [High Tech p. 154](HT154)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -32372,7 +32372,7 @@
 			"id": "eKPT35jMQIAJBTpDk",
 			"description": "Mauser Modell 10E, 9.3x62mm",
 			"reference": "HTPG2:12",
-			"local_notes": "Always decorated (see p. [HT10](HT10)).",
+			"local_notes": "Always decorated (see [High Tech p. 10](HT10)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -34188,7 +34188,7 @@
 			"id": "e8X2pkSQhuKBMAE0Z",
 			"description": "MK II WP",
 			"reference": "HTPG2:31",
-			"local_notes": "Fuse 5. 1 Ready maneuver. Fills a 5-yard radius with smoke; see p. (see p. [B439](B439)). Cloud lasts about 60 seconds under normal conditions.",
+			"local_notes": "Fuse 5. 1 Ready maneuver. Fills a 5-yard radius with smoke; (see p. [B439](B439)). Cloud lasts about 60 seconds under normal conditions.",
 			"legality_class": "1",
 			"tags": [
 				"Explosives and Incendiaries"
@@ -34248,7 +34248,7 @@
 			"id": "eB7ac8d4ogwjQkFKW",
 			"description": "MK II KJ",
 			"reference": "HTPG2:30",
-			"local_notes": "Fuse 5. 1 Ready maneuver. Fills a 5-yard radius with tear gas (see p. [HT171](HT171)). Cloud lasts about 30 seconds under normal conditions.",
+			"local_notes": "Fuse 5. 1 Ready maneuver. Fills a 5-yard radius with tear gas (see [High Tech p. 171](HT171)). Cloud lasts about 30 seconds under normal conditions.",
 			"legality_class": "1",
 			"tags": [
 				"Explosives and Incendiaries"
@@ -34476,7 +34476,7 @@
 			"id": "esYa71N_2dAlz6A3P",
 			"description": "14.5G 2.56” (17.6x65mmR)",
 			"reference": "HTPG1:32",
-			"local_notes": "Shotshell (see p. [HT173](HT173)).",
+			"local_notes": "Shotshell (see [High Tech p. 173](HT173)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -34624,7 +34624,7 @@
 			"id": "esCDDD8wEYObDamvC",
 			"description": "28G 2.75” (14x70mmR)",
 			"reference": "HTPG1:32",
-			"local_notes": "Light cased (see p. [HT164](HT164)). Shotshell (see p. [HT173](HT173)).",
+			"local_notes": "Light cased (see [High Tech p. 164](HT164)). Shotshell (see [High Tech p. 173](HT173)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -35150,7 +35150,7 @@
 			"id": "eW2e1CqRUrZ-wk_BW",
 			"description": ".69 Federal (17.5x89mm)",
 			"reference": "HTPG1:32",
-			"local_notes": "Light cased [HT164](HT164)). Muzzle Blast Tear Gas [HTPG1:10](HTPG1:10)).",
+			"local_notes": "Light cased ([High Tech p. 164](HT164)). Muzzle Blast Tear Gas ([p. 10](HTPG1:10)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
