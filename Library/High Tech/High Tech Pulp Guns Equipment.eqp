@@ -277,7 +277,7 @@
 			"id": "eLe-EKIa4wStfXQxh",
 			"description": "Schilt Number 3",
 			"reference": "HTPG2:31",
-			"local_notes": "Takes two Ready manuevers before firing",
+			"local_notes": "Takes two Ready maneuvers before firing",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -288,7 +288,7 @@
 			"base_weight": "65",
 			"weapons": [
 				{
-					"id": "W1Au5J9x3jWQTBLBq",
+					"id": "WpU4xmpTlqHmaltZ0",
 					"sv": 1,
 					"damage": {
 						"type": "burn",
@@ -379,7 +379,7 @@
 			"id": "ebyPPVQULFTzWCHbR",
 			"description": "Kuusinen LH/44",
 			"reference": "HTPG2:32",
-			"local_notes": "Weight includes empty KP/31 (High-Tech p. 122)",
+			"local_notes": "Weight includes empty KP/31 (see p. [HT122](HT122))",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -390,7 +390,7 @@
 			"base_weight": "63.6",
 			"weapons": [
 				{
-					"id": "WjPOYR41W7F19A1_0",
+					"id": "Wuw1jkyvXkt0Gx1Ao",
 					"sv": 1,
 					"damage": {
 						"type": "burn",
@@ -481,7 +481,7 @@
 			"id": "e9cuRVIYLvOkn9IGz",
 			"description": "HAG WEX17",
 			"reference": "HTPG2:32",
-			"local_notes": "Takes two Ready manuevers before firing",
+			"local_notes": "Takes two Ready maneuvers before firing",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -492,7 +492,7 @@
 			"base_weight": "55",
 			"weapons": [
 				{
-					"id": "WeYvkFzcmSSc3_jK_",
+					"id": "WINBUVdKdbtVeGC7y",
 					"sv": 1,
 					"damage": {
 						"type": "burn",
@@ -3015,8 +3015,8 @@
 		},
 		{
 			"id": "etFxvbQOEZbm5hTTU",
-			"description": "Astra Mod 902, 7x63x25mm",
-			"reference": "HTPG1:15",
+			"description": "Astra Mod 902, 7.63x25mm",
+			"reference": "HTPG1:14",
 			"tech_level": "6",
 			"legality_class": "2",
 			"tags": [
@@ -3026,7 +3026,7 @@
 			"base_weight": "3.8",
 			"weapons": [
 				{
-					"id": "W-ie8XxzC50Xlx8I2",
+					"id": "W06b80TzggZtpMdbg",
 					"sv": 1,
 					"damage": {
 						"type": "pi-",
@@ -4195,7 +4195,7 @@
 		},
 		{
 			"id": "eAA8n0mTFji1KYTey",
-			"description": "Walther PPK, .22 ACP",
+			"description": "Walther PPK, .22 LR",
 			"reference": "HTPG1:20",
 			"local_notes": "No lanyard ring",
 			"tech_level": "6",
@@ -4207,7 +4207,7 @@
 			"base_weight": "1.5",
 			"weapons": [
 				{
-					"id": "WREwLPFtpR5Yn6rrN",
+					"id": "WDpCZ53z-cn8ulc8y",
 					"sv": 1,
 					"damage": {
 						"type": "pi-",
@@ -5041,7 +5041,7 @@
 			"id": "eU5--kURSsh_nOlzJ",
 			"description": "Walther Leuchtpistole, 26.5x103mmR",
 			"reference": "HTPG2:29",
-			"local_notes": "Lanyard ring (High-Tech, p. 154). Fires flare/signal rounds; no combat damage (Special).",
+			"local_notes": "Lanyard ring (see p. [HT154](HT154)). Fires flare/signal rounds; no combat damage (Special).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -5051,7 +5051,7 @@
 			"base_weight": "3.1",
 			"weapons": [
 				{
-					"id": "WDaizymKbSKW_6E7w",
+					"id": "WXs_IFM9s8UhE2Wxs",
 					"sv": 1,
 					"damage": {
 						"type": "",
@@ -6344,7 +6344,7 @@
 		},
 		{
 			"id": "eoHXs0e8n4nD6ncSv",
-			"description": "Beretta Mod 1934, .380ACP",
+			"description": "Beretta Mod 1934, .380 ACP",
 			"reference": "HTPG1:19",
 			"tech_level": "6",
 			"legality_class": "3",
@@ -6355,7 +6355,7 @@
 			"base_weight": "1.9",
 			"weapons": [
 				{
-					"id": "WUG5pjkuf3P78KpSV",
+					"id": "Wp1yEIYLqhdwYsiaZ",
 					"sv": 1,
 					"damage": {
 						"type": "pi",
@@ -7356,7 +7356,7 @@
 			"id": "eXOXib-2LlPWMnXvW",
 			"description": "Steyr-Solothurn S18-100, 20x105mmB",
 			"reference": "HTPG2:13",
-			"local_notes": "Lacks sling swivels (High-Tech, p. 154).",
+			"local_notes": "Lacks sling swivels (see p. [HT154](HT154)).",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -7366,7 +7366,7 @@
 			"base_weight": "99",
 			"weapons": [
 				{
-					"id": "WdljPbLDDpCS0gjJ3",
+					"id": "W2MwzLdJtr-GZhqot",
 					"sv": 1,
 					"damage": {
 						"type": "pi++",
@@ -7935,7 +7935,7 @@
 			"id": "em1mU7l9hIV_rChi_",
 			"description": "Breda Mod 30, 6.5x52mm",
 			"reference": "HTPG2:25",
-			"local_notes": "Unreliable. Malfunctions on 16+ (see p. B407).",
+			"local_notes": "Unreliable. Malfunctions on 16+ (see p. [B407](B407))..",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -7945,7 +7945,7 @@
 			"base_weight": "23.6",
 			"weapons": [
 				{
-					"id": "WvuV0DI_w7HvL1w4B",
+					"id": "WJlOKIdgaaPvUAF_R",
 					"sv": 1,
 					"damage": {
 						"type": "pi",
@@ -12527,7 +12527,7 @@
 			"id": "eb2vst97J4Npau2i9",
 			"description": "Savage Model 45 Super, .30-06",
 			"reference": "HTPG2:13",
-			"local_notes": "Always decorated (High-Tech p. 10)",
+			"local_notes": "Always decorated (see p. [HT10](HT10)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -12537,7 +12537,7 @@
 			"base_weight": "7.7",
 			"weapons": [
 				{
-					"id": "WrVHRKAsjsuQdBC9G",
+					"id": "Wh6zdiBqqeYZvIPrd",
 					"sv": 1,
 					"damage": {
 						"type": "pi",
@@ -14639,7 +14639,7 @@
 			"id": "eg1Q0yeFhbe6A9NKs",
 			"description": "Rigby Best Quality Double, .470 NE",
 			"reference": "HTPG2:10",
-			"local_notes": "Always decorated (High-Tech p. 10)",
+			"local_notes": "Always decorated (see p. [HT10](HT10)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -14649,7 +14649,7 @@
 			"base_weight": "11.2",
 			"weapons": [
 				{
-					"id": "WazXJRmkSaM6zuHj2",
+					"id": "W-TLo8UculugO4SH-",
 					"sv": 1,
 					"damage": {
 						"type": "pi+",
@@ -18468,7 +18468,7 @@
 			"id": "ew5nGR4LVbmv8ZqoE",
 			"description": "Nambu Taishou 11 Shiki Kikanjuu, 6.5x50mmSR",
 			"reference": "HTPG2:21",
-			"local_notes": "Unreliable. Malfunctions on 16+ (see p. B407).",
+			"local_notes": "Unreliable. Malfunctions on 16+ (see p. [B407](B407)).",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -18478,7 +18478,7 @@
 			"base_weight": "23.9",
 			"weapons": [
 				{
-					"id": "Wc8akEgrg74lH8dQL",
+					"id": "W6c4anG8r5fr4YNDE",
 					"sv": 1,
 					"damage": {
 						"type": "pi",
@@ -20246,7 +20246,7 @@
 			"id": "eavh798JhAURN-4wd",
 			"description": "FIAT-Revelli Mod 14, 6.5x52mm",
 			"reference": "HTPG2:18",
-			"local_notes": "Very unreliable. Malfunctions on 15+ (see p. B407).",
+			"local_notes": "Very unreliable. Malfunctions on 15+ (see p. [B407](B407)).",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -20256,7 +20256,7 @@
 			"base_weight": "46.5",
 			"weapons": [
 				{
-					"id": "WKB1AYt8tFyvMnbIp",
+					"id": "WeW36ix5dRB1QCKBc",
 					"sv": 1,
 					"damage": {
 						"type": "pi",
@@ -20826,7 +20826,7 @@
 			"id": "eZucxWK4dzX8it22i",
 			"description": "16 Shi 7.63x25mm",
 			"reference": "HTPG1:27",
-			"local_notes": "Unreliable. Malfunctions on 17+ (see p. B407)",
+			"local_notes": "Unreliable. Malfunctions on 17+ (see p. [B407](B407)).",
 			"tech_level": "6",
 			"legality_class": "2",
 			"tags": [
@@ -20836,7 +20836,7 @@
 			"base_weight": "11.2",
 			"weapons": [
 				{
-					"id": "WrrwZfMCwYA6aTZsI",
+					"id": "WMaaNT3Vnb70BKbXZ",
 					"sv": 1,
 					"damage": {
 						"type": "pi-",
@@ -23854,7 +23854,7 @@
 			"id": "eu4EkksxMoAAl33qf",
 			"description": "Greener Light Harpoon Gun, .38 Special",
 			"reference": "HTPG2:12",
-			"local_notes": "Lacks sling swivels (High-Tech, p. 154). Fires a harpoon.",
+			"local_notes": "Lacks sling swivels (see p. [HT154](HT154)). Fires a harpoon.",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -23864,7 +23864,7 @@
 			"base_weight": "13.1",
 			"weapons": [
 				{
-					"id": "WiTxqxr99dvKfWiA8",
+					"id": "W4jzY6h7Jr8K4Zi4j",
 					"sv": 1,
 					"damage": {
 						"type": "imp",
@@ -24192,7 +24192,7 @@
 			"id": "ehaw5JthP-avEUfYk",
 			"description": "H&H Best Quality Magazine, .375 H&H Magnum",
 			"reference": "HTPG2:10",
-			"local_notes": "Always decorated (High-Tech p. 10)",
+			"local_notes": "Always decorated (see p. [HT10](HT10)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -24202,7 +24202,7 @@
 			"base_weight": "10.3",
 			"weapons": [
 				{
-					"id": "WOjLoUn2c-hEwGFrJ",
+					"id": "WKpPgJPY2e5wC5oR2",
 					"sv": 1,
 					"damage": {
 						"type": "pi",
@@ -24360,7 +24360,7 @@
 		{
 			"id": "eUOAEJ2860XbzCdhu",
 			"description": "H&H Paradox Gun, 12G 2.5”",
-			"reference": "HTPG1:17",
+			"reference": "HTPG1:27",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -24370,7 +24370,7 @@
 			"base_weight": "7.5",
 			"weapons": [
 				{
-					"id": "WseiE0rIwsvoKfxgZ",
+					"id": "Wf4BOwrAK68_TkaR7",
 					"sv": 1,
 					"damage": {
 						"type": "pi",
@@ -24529,7 +24529,7 @@
 			"id": "el9dKCZYI6Z5qOI_7",
 			"description": "H&H Royal Double-Express, .500/450 NE",
 			"reference": "HTPG2:7",
-			"local_notes": "Lacks sling swivels (High-Tech, p. 154). Fine (accurate). Always decorated (High-Tech p. 10).",
+			"local_notes": "Lacks sling swivels [HT154](HT154)). Fine (accurate). Always decorated [HT10](HT10)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -24539,7 +24539,7 @@
 			"base_weight": "14.2",
 			"weapons": [
 				{
-					"id": "WC_QwRIxlMmdKMxL1",
+					"id": "W12pMEfsrxmZDRBgE",
 					"sv": 1,
 					"damage": {
 						"type": "pi+",
@@ -24698,7 +24698,7 @@
 			"id": "eTr6v0fCE7_HCQ4ET",
 			"description": "H&H Royal Double-Express, .600 NE",
 			"reference": "HTPG2:7",
-			"local_notes": "Lacks sling swivels (High-Tech, p. 154). Fine (accurate). Always decorated (High-Tech p. 10).",
+			"local_notes": "Lacks sling swivels [HT154](HT154)). Fine (accurate). Always decorated [HT10](HT10)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -24708,7 +24708,7 @@
 			"base_weight": "16.4",
 			"weapons": [
 				{
-					"id": "WejcsnfXpqoKzeZdQ",
+					"id": "WuAXRHm3ms0HNzJDm",
 					"sv": 1,
 					"damage": {
 						"type": "pi++",
@@ -27048,7 +27048,7 @@
 			"id": "epvrZ29BsOAoz7o2w",
 			"description": "Iver Johnson .32 Hammerless, .32 S&W Long",
 			"reference": "HTPG1:8",
-			"local_notes": "No lanyard ring; unreliable with TL6 smokeless ammo: malfunctions on 16+ (see p. B407)",
+			"local_notes": "No lanyard ring; unreliable with TL6 smokeless ammo: malfunctions on 16+ (see p. [B407](B407)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -27058,7 +27058,7 @@
 			"base_weight": "1.3",
 			"weapons": [
 				{
-					"id": "WBI-_5e5VcLrjZXWh",
+					"id": "Wiw_1kPBt3dKq8fGT",
 					"sv": 1,
 					"damage": {
 						"type": "pi-",
@@ -27722,7 +27722,7 @@
 			"id": "eeUpEtrhcZ1oSg1Ce",
 			"description": "Kokura 97 Shiki Jidouhou, 20x125mm",
 			"reference": "HTPG2:15",
-			"local_notes": "Lacks sling swivels (High-Tech, p. 154). Effective LC2 during Pulp era.",
+			"local_notes": "Lacks sling swivels (see p. [HT154](HT154)). Effective LC2 during Pulp era.",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -27732,7 +27732,7 @@
 			"base_weight": "114",
 			"weapons": [
 				{
-					"id": "Wh_9M_o964zgZml5u",
+					"id": "WJt8FEvvJMA4pxdlK",
 					"sv": 1,
 					"damage": {
 						"type": "pi++",
@@ -27891,7 +27891,7 @@
 		{
 			"id": "e9gL0ehMQhmVNEEAK",
 			"description": "APX Mle 1916TRP, 37x94mmR",
-			"reference": "HTPG1:28",
+			"reference": "HTPG2:28",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -27901,7 +27901,7 @@
 			"base_weight": "88",
 			"weapons": [
 				{
-					"id": "W9mrsihZokHzYcNKp",
+					"id": "Wo0aTKL-WRDgwYXoZ",
 					"sv": 1,
 					"damage": {
 						"type": "pi++",
@@ -27946,7 +27946,7 @@
 					}
 				},
 				{
-					"id": "W6ht22K7W5GWykiZT",
+					"id": "Wvk29R8RF2NoZIdNv",
 					"sv": 1,
 					"damage": {
 						"type": "pi++",
@@ -27999,7 +27999,7 @@
 					}
 				},
 				{
-					"id": "W_SkOeYd9CSVoahRy",
+					"id": "W2GKZdDQjNEFHlNdM",
 					"sv": 1,
 					"damage": {
 						"type": "cr ex",
@@ -28194,7 +28194,7 @@
 		{
 			"id": "exbzOECWK8bNVR2sD",
 			"description": "Hotchkiss 6-pdr Mk II, 57x305mmR",
-			"reference": "HTPG1:28",
+			"reference": "HTPG2:28",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -28204,7 +28204,7 @@
 			"base_weight": "849",
 			"weapons": [
 				{
-					"id": "WOF8pWiO5umYPXLOp",
+					"id": "WxmXdJ6lxVmCp9Kat",
 					"sv": 1,
 					"damage": {
 						"type": "pi++",
@@ -28249,7 +28249,7 @@
 					}
 				},
 				{
-					"id": "WNW0rxTNRdwR_BiPp",
+					"id": "W2PZZE0KZAvYOM8HX",
 					"sv": 1,
 					"damage": {
 						"type": "pi++",
@@ -28302,7 +28302,7 @@
 					}
 				},
 				{
-					"id": "WBji2QGcBTpCFRi-c",
+					"id": "W3w7bwblu_ih6WjuL",
 					"sv": 1,
 					"damage": {
 						"type": "cr ex",
@@ -29339,7 +29339,7 @@
 			"id": "eU1D-_1YH-GqWzNwi",
 			"description": "CSRG Mle 1915, 8x50mmR",
 			"reference": "HTPG2:20",
-			"local_notes": "Very unreliable. Malfunctions on 15+ (see p. B407).",
+			"local_notes": "Very unreliable. Malfunctions on 15+ (see p. [B407](B407)).",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -29349,7 +29349,7 @@
 			"base_weight": "23",
 			"weapons": [
 				{
-					"id": "Wm17zQKWk7uYBZNQT",
+					"id": "WstJBj6p26Jwr9G2V",
 					"sv": 1,
 					"damage": {
 						"type": "pi",
@@ -29677,7 +29677,7 @@
 			"id": "eEScX3i2Q0FH1PHJI",
 			"description": "Cottrell Flashlight Revolver, .22 LR",
 			"reference": "HTPG1:13",
-			"local_notes": "No lanyard ring; includes a tactical like (p. HT156)",
+			"local_notes": "No lanyard ring; includes a tactical like (see p. [HT156](HT156)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -29687,7 +29687,7 @@
 			"base_weight": "1.5",
 			"weapons": [
 				{
-					"id": "WG9JaVZhQS4QLweMm",
+					"id": "WMgbyu4wRJWISpV4y",
 					"sv": 1,
 					"damage": {
 						"type": "pi-",
@@ -30182,7 +30182,7 @@
 			"id": "eyCAxJVr7YieLpwPv",
 			"description": "Colt Model 1914, .30-06",
 			"reference": "HTPG2:18",
-			"local_notes": "Unreliable. Malfunctions on 16+ (see p. B407).",
+			"local_notes": "Unreliable. Malfunctions on 16+ (see p. [B407](B407)).",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -30192,7 +30192,7 @@
 			"base_weight": "36",
 			"weapons": [
 				{
-					"id": "WemVm4o3-_Dd4uM4v",
+					"id": "WnXHf7LR0lWwAVMbS",
 					"sv": 1,
 					"damage": {
 						"type": "pi",
@@ -30929,7 +30929,7 @@
 			"id": "eLnGzW5VsqgOExGO3",
 			"description": "Manville Machine Gas Projector, 1“",
 			"reference": "HTPG2:29",
-			"local_notes": "Sling swivels (High-Tech, p. 154).",
+			"local_notes": "Sling swivels (see p. [HT154](HT154)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -30939,7 +30939,7 @@
 			"base_weight": "18.9",
 			"weapons": [
 				{
-					"id": "Wu6oChpcbC3G0cZXq",
+					"id": "WkdrM7-dV9IDHnBhP",
 					"sv": 1,
 					"damage": {
 						"type": "cr",
@@ -30997,7 +30997,7 @@
 					}
 				},
 				{
-					"id": "W2-RBS1ToftNZdQw0",
+					"id": "WoPLKpK396eKQb5bG",
 					"sv": 1,
 					"damage": {
 						"type": "cr ex",
@@ -32372,7 +32372,7 @@
 			"id": "eKPT35jMQIAJBTpDk",
 			"description": "Mauser Modell 10E, 9.3x62mm",
 			"reference": "HTPG2:12",
-			"local_notes": "Always decorated (High-Tech p. 10).",
+			"local_notes": "Always decorated (see p. [HT10](HT10)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -32382,7 +32382,7 @@
 			"base_weight": "7.5",
 			"weapons": [
 				{
-					"id": "WeI2u57ECbLOSNxwG",
+					"id": "WfYv97Qej-FqV7htp",
 					"sv": 1,
 					"damage": {
 						"type": "pi",
@@ -32541,7 +32541,7 @@
 			"id": "egyr_K7Iy3N0sikEe",
 			"description": "Mauser Tank-Gewehr 18, 13x92mmSR",
 			"reference": "HTPG2:11",
-			"local_notes": "Lacks sling swivels (High-Tech, p. 154). Effective LC2 during Pulp era.",
+			"local_notes": "Lacks sling swivels [HT154](HT154)). Effective LC2 during Pulp era.",
 			"tech_level": "6",
 			"legality_class": "1",
 			"tags": [
@@ -32551,7 +32551,7 @@
 			"base_weight": "40",
 			"weapons": [
 				{
-					"id": "W-ECDCZP0dBrUGsg1",
+					"id": "WCLYjABCqDILqnMW_",
 					"sv": 1,
 					"damage": {
 						"type": "pi",
@@ -34188,7 +34188,7 @@
 			"id": "e8X2pkSQhuKBMAE0Z",
 			"description": "MK II WP",
 			"reference": "HTPG2:31",
-			"local_notes": "Fuse 5. 1 Ready maneuver. Fills a 5-yard radius with smoke; see p. B439. Cloud lasts about 60 seconds under normal conditions.",
+			"local_notes": "Fuse 5. 1 Ready maneuver. Fills a 5-yard radius with smoke; see p. (see p. [B439](B439)). Cloud lasts about 60 seconds under normal conditions.",
 			"legality_class": "1",
 			"tags": [
 				"Explosives and Incendiaries"
@@ -34197,7 +34197,7 @@
 			"base_weight": "1.2",
 			"weapons": [
 				{
-					"id": "WCG0EwsO4dCMNctZz",
+					"id": "WDxOuAdQFxM-wgCMR",
 					"sv": 1,
 					"damage": {
 						"type": "cr ex",
@@ -34248,7 +34248,7 @@
 			"id": "eB7ac8d4ogwjQkFKW",
 			"description": "MK II KJ",
 			"reference": "HTPG2:30",
-			"local_notes": "Fuse 5. 1 Ready maneuver. Fills a 5-yard radius with tear gas (High-Tech, p. 171). Cloud lasts about 30 seconds under normal conditions.",
+			"local_notes": "Fuse 5. 1 Ready maneuver. Fills a 5-yard radius with tear gas (see p. [HT171](HT171)). Cloud lasts about 30 seconds under normal conditions.",
 			"legality_class": "1",
 			"tags": [
 				"Explosives and Incendiaries"
@@ -34257,7 +34257,7 @@
 			"base_weight": "1.4",
 			"weapons": [
 				{
-					"id": "WoDdRaaYGkFdwO7JK",
+					"id": "WLqis9HLArtC2ioIO",
 					"sv": 1,
 					"damage": {
 						"type": "cr ex",
@@ -34292,7 +34292,7 @@
 					}
 				},
 				{
-					"id": "W5SxIQD-p2zUunlQf",
+					"id": "WaZ1wc3kABf58Ui4H",
 					"sv": 1,
 					"damage": {
 						"type": "",
@@ -34476,7 +34476,7 @@
 			"id": "esYa71N_2dAlz6A3P",
 			"description": "14.5G 2.56” (17.6x65mmR)",
 			"reference": "HTPG1:32",
-			"local_notes": "Shotshell (High-Tech, p. 173)",
+			"local_notes": "Shotshell (see p. [HT173](HT173)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -34624,7 +34624,7 @@
 			"id": "esCDDD8wEYObDamvC",
 			"description": "28G 2.75” (14x70mmR)",
 			"reference": "HTPG1:32",
-			"local_notes": "Light cased (High-Tech, p. 164). Shotshell (High-Tech, p. 173)",
+			"local_notes": "Light cased (see p. [HT164](HT164)). Shotshell (see p. [HT173](HT173)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -35150,7 +35150,7 @@
 			"id": "eW2e1CqRUrZ-wk_BW",
 			"description": ".69 Federal (17.5x89mm)",
 			"reference": "HTPG1:32",
-			"local_notes": "Light cased (High-Tech, p. 164). Muzzle Blast Tear Gas (p. 10)",
+			"local_notes": "Light cased [HT164](HT164)). Muzzle Blast Tear Gas [HTPG1:10](HTPG1:10)).",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
