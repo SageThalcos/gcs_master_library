@@ -6851,7 +6851,6 @@
 			"id": "eIDIAJ30o3kSELk5d",
 			"description": "Sturmpistole M.12, 9x23mm Steyr",
 			"reference": "HTPG1:17",
-			"local_notes": "If fired one-handed ST 11, Rcl 3",
 			"tech_level": "6",
 			"legality_class": "2",
 			"tags": [
@@ -6861,7 +6860,7 @@
 			"base_weight": "2.8",
 			"weapons": [
 				{
-					"id": "WWD1wcZ48H7rzNiRq",
+					"id": "WgNxkUSQa7Y038Lqp",
 					"sv": 1,
 					"damage": {
 						"type": "pi",
@@ -7002,6 +7001,154 @@
 							"modifier": -2
 						}
 					],
+					"calc": {
+						"damage": "2d+1 pi"
+					}
+				},
+				{
+					"id": "WvxQyjtBa8tLVn9UD",
+					"sv": 1,
+					"damage": {
+						"type": "pi",
+						"base": "2d+1"
+					},
+					"strength": "11",
+					"usage": "One-handed",
+					"accuracy": "2",
+					"range": "125/1,400",
+					"rate_of_fire": "13",
+					"shots": "16(5)",
+					"bulk": "-3",
+					"recoil": "3",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Submachine Gun"
+							}
+						},
+						{
+							"type": "dx",
+							"name": {
+								"compare": "is_not",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Pistol"
+							},
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Grenade Launcher"
+							},
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Shotgun"
+							},
+							"modifier": -2
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Gyroc"
+							},
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Light Machine Gun"
+							},
+							"modifier": -2
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Gun!"
+							}
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Light Anti-Armor Weapon"
+							},
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Musket"
+							},
+							"modifier": -2
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Pistol"
+							},
+							"modifier": -2
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Rifle"
+							},
+							"modifier": -2
+						}
+					],
+					"hide": true,
 					"calc": {
 						"damage": "2d+1 pi"
 					}
@@ -8608,7 +8755,6 @@
 			"id": "echxK3Jnt3AITGnMY",
 			"description": "Star Mod MD 7.63x25mm Mauser",
 			"reference": "HTPG1:17",
-			"local_notes": "Fired one-handed ST 11, Rcl 3",
 			"tech_level": "6",
 			"legality_class": "3",
 			"tags": [
@@ -8618,7 +8764,7 @@
 			"base_weight": "2.5",
 			"weapons": [
 				{
-					"id": "WboQqaAcK_576cSUE",
+					"id": "WSRGVpIRE39BBn3DI",
 					"sv": 1,
 					"damage": {
 						"type": "pi-",
@@ -8759,6 +8905,154 @@
 							"modifier": -2
 						}
 					],
+					"calc": {
+						"damage": "3d-1 pi-"
+					}
+				},
+				{
+					"id": "WaeSD6RP5MtxsxQfM",
+					"sv": 1,
+					"damage": {
+						"type": "pi-",
+						"base": "3d-1"
+					},
+					"strength": "11",
+					"usage": "One-handed",
+					"accuracy": "2",
+					"range": "150/1,600",
+					"rate_of_fire": "23",
+					"shots": "9+1(3)",
+					"bulk": "-2",
+					"recoil": "3",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Pistol"
+							}
+						},
+						{
+							"type": "dx",
+							"name": {
+								"compare": "is_not",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Pistol"
+							},
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Grenade Launcher"
+							},
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Shotgun"
+							},
+							"modifier": -2
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Gyroc"
+							},
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Light Machine Gun"
+							},
+							"modifier": -2
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Gun!"
+							}
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Light Anti-Armor Weapon"
+							},
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Musket"
+							},
+							"modifier": -2
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Submachine Gun"
+							},
+							"modifier": -2
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Rifle"
+							},
+							"modifier": -2
+						}
+					],
+					"hide": true,
 					"calc": {
 						"damage": "3d-1 pi-"
 					}
@@ -32035,7 +32329,6 @@
 			"id": "e-g7XReVaNCBRXk4o",
 			"description": "Mauser C96 Schnellfeuerpistole M32",
 			"reference": "HTPG1:15",
-			"local_notes": "If fired one-handed without the stock: ST 10, Rcl 3.",
 			"tech_level": "6",
 			"legality_class": "2",
 			"tags": [
@@ -32045,7 +32338,7 @@
 			"base_weight": "4.2",
 			"weapons": [
 				{
-					"id": "WuTl7SJFG60GkqX9Q",
+					"id": "Wr-GT2nv0YJ6Mgyz8",
 					"sv": 1,
 					"damage": {
 						"type": "pi-",
@@ -32058,6 +32351,154 @@
 					"shots": "20+1(3)",
 					"bulk": "-4",
 					"recoil": "2",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Submachine Gun"
+							}
+						},
+						{
+							"type": "dx",
+							"name": {
+								"compare": "is_not",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Pistol"
+							},
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Grenade Launcher"
+							},
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Shotgun"
+							},
+							"modifier": -2
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Gyroc"
+							},
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Light Machine Gun"
+							},
+							"modifier": -2
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Gun!"
+							}
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Light Anti-Armor Weapon"
+							},
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Musket"
+							},
+							"modifier": -2
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Pistol"
+							},
+							"modifier": -2
+						},
+						{
+							"type": "skill",
+							"name": {
+								"compare": "is",
+								"qualifier": "Guns"
+							},
+							"specialization": {
+								"compare": "is",
+								"qualifier": "Rifle"
+							},
+							"modifier": -2
+						}
+					],
+					"calc": {
+						"damage": "3d-1 pi-"
+					}
+				},
+				{
+					"id": "WjMwa9edIi3LS_Cfm",
+					"sv": 1,
+					"damage": {
+						"type": "pi-",
+						"base": "3d-1"
+					},
+					"strength": "10",
+					"usage": "One-handed",
+					"usage_notes": "Without stock",
+					"accuracy": "3",
+					"range": "180/2,000",
+					"rate_of_fire": "14",
+					"shots": "20+1(3)",
+					"bulk": "-4",
+					"recoil": "3",
 					"defaults": [
 						{
 							"type": "skill",
