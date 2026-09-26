@@ -386,6 +386,7 @@
 							"locations": [
 								"all"
 							],
+							"specialization": "Electrical",
 							"amount": 1,
 							"per_level": true
 						},
@@ -394,6 +395,7 @@
 							"locations": [
 								"eye"
 							],
+							"specialization": "Electrical",
 							"amount": -1,
 							"per_level": true
 						}
